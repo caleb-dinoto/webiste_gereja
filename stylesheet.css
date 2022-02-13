@@ -1,0 +1,172 @@
+body {
+    font-family: "Avenir Next";
+    margin:10px;
+    
+
+  }
+
+  #body1{
+    background-image: url("gambar/background.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 105px;
+    padding-top: 15px;
+    margin: 0 px;
+    margin:-10px;
+
+    
+    
+    
+  }
+  #menu ul li {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#menu ul {
+  margin: 10;
+  padding: 100;
+}
+  
+  #logo img {
+  width:  150px;
+  
+}
+  
+  #menu {
+    margin-top: px;
+    margin: left 100px;;
+    color-interpolation-filters: sRGB;
+}
+  
+  #logo {
+  margin: -20px;
+  padding-left: 40px;
+}
+
+  #top {
+  display: flex;
+  justify-content: space-between;
+}
+
+  
+  #main {
+    padding: 100px;
+    
+  }
+
+  #menu ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    float: left;
+    padding: 33px 15px;
+}
+
+#menu ul li a:hover, #menu ul li a.active {
+    border-bottom: 4px solid;
+}
+
+  
+  .copy-container h1 {
+    font-size: 140px;
+  }
+  
+  .copy-container h2 {
+    font-size: 60px;
+  }
+  
+  .copy-container span {
+    color: #ff4a4a;
+  }
+  
+  .contents {
+    height: 500px;
+    margin-top: 100px;
+  }
+  
+  .section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+  }
+  
+  .contents-item {
+    float: left;
+    margin-right: 40px;
+  }
+  
+  .contents-item p {
+    font-size: 24px;      
+    margin-top: 30px;
+  }            
+                                   
+  .contact-form {            
+  padding-top: 100px;            
+  }            
+
+    #jadwal img{
+      border-radius: 50px;
+  }
+
+   #judul img{
+     margin: 10px;
+     padding-top: ;
+     
+   }
+
+  #miskin img{
+    border-radius: 0px;
+  }
+  
+  #about img{
+    border-radius: 50px;
+}
+
+
+  input, textarea {            
+  width: 400px;            
+   margin-top: 10px;            
+   margin-bottom: 30px;            
+  padding: 20px;            
+  font-size: 18px;            
+  border: 1px solid #dee7ec;
+                      }            
+   
+  /* Tambahkan CSS untuk contact-submit */            
+  .contact-submit {            
+  background-color: #dee7ec;            
+  color: #889eab;            
+  } 
+  .footer {            
+   background-color: #2f5167;            
+   color: #fff;            
+   height: 120px;            
+  padding: 40px;
+  
+  margin: -15px;
+    
+                      } 
+  .footer-logo {            
+   float: left;            
+  font-size: 32px;
+  color:#fac3e6
+                        
+                      }
+  .footer-list {            
+  float: right;            
+   }            
+                                   
